@@ -1,0 +1,6 @@
+{
+  "name": "JobLite",
+  "description": "JobLite - Verified artisan and skilled service marketplace with secure authentication, admin governance, NIN and certificate validation, and escrow protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
